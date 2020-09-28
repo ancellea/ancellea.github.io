@@ -2,7 +2,13 @@ body {
     background: lightblue;
     font-family: Verdana, Arial, Helvetica,sans-serif;
 }
+.assignment {
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background:lightgray;
+}
 
-h1 {
+h1 { 
     color: darkblue;
 }
