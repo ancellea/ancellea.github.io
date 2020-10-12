@@ -1,12 +1,12 @@
 body {
-    background: lightblue;
+    background: #F2911B;
     font-family: Verdana, Arial, Helvetica,sans-serif;
 }
 .assignment {
     display: flex;
     padding: 10px;
     margin: 10px;
-    background: white;
+    background: #F2EDE4;
 }
 
 .assignment img {
@@ -14,5 +14,9 @@ body {
     padding:10px;
 }
 h1 { 
-    color: darkblue;
+    color: #BF372A;
+}
+a {
+    text-decoration: none;
+    color: #BF372A;
 }
